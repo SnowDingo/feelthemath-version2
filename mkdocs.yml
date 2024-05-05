@@ -1,0 +1,14 @@
+site_name: FeelTheMath
+copyright: "&copy; 2024 SnowDingo"
+theme:
+  favicon: /images/favicon.ico
+  name: material
+  palette:
+    primary: teal
+  font:
+    text: Noto Sans JP
+    code: Inconsolata
+  features:
+    - navigation.top
+extra:
+  generator: false
